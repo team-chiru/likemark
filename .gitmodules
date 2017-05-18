@@ -1,0 +1,12 @@
+[submodule "likemark.js"]
+	path = likemark.js
+	url = https://github.com/team-chiru/likemark.js
+[submodule "cli"]
+	path = cli
+	url = https://github.com/team-chiru/likemark-cli
+[submodule "services"]
+	path = services
+	url = https://github.com/team-chiru/likemark-backend
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/team-chiru/likemark-webapp
