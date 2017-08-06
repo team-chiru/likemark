@@ -1,0 +1,18 @@
+html, body {
+  background: black;
+  height: 100%;
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.text_section {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
