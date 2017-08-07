@@ -2,6 +2,7 @@ html, body {
   background: black;
   height: 100%;
   color: white;
+  font-family: sans-serif;
 }
 
 .content {
